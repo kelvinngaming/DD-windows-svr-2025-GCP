@@ -25,7 +25,7 @@ Requirements for win svr 2025:
 
 8. Make sure to download the image file url have to include the file name "WinSvr2025_Datacenter_EN.vhd.gz" else the installation will failed
 
-9. wget --no-check-certificate -qO InstallNET.sh 'https://github.com/teddysun/across/raw/master/InstallNET.sh' && bash InstallNET.sh --ip-addr Your_Server_IP --ip-mask Your_Server_IP_Mask --ip-gate Your_Server_IP_Gate -dd 'http://Your_Server_name/WinSvr2025_Datacenter_EN.vhd.gz'
+    -  wget --no-check-certificate -qO InstallNET.sh 'https://github.com/teddysun/across/raw/master/InstallNET.sh' && bash InstallNET.sh --ip-addr Your_Server_IP --ip-mask Your_Server_IP_Mask --ip-gate Your_Server_IP_Gate -dd 'http://Your_Server_name/WinSvr2025_Datacenter_EN.vhd.gz'
 
 10. Wait for the installation it will take around 1 hour 10 minutes to complete the whole process.
 11. Connect to your new Win Svr2025 with Remote desktop client on any computer or mobile phone.
