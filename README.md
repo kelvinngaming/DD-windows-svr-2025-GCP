@@ -33,4 +33,4 @@ Requirements for win svr 2025:
 
 11. Note: This windows are not activated ! Please get the Genuine Key from microsoft 
 
-12. Credits thanks to teddysun for the wondefull InstallNET.sh script and vhd file from me. 
+12. Credits thanks to Teddysun for the wondefull InstallNET.sh script and vhd file from me. 
