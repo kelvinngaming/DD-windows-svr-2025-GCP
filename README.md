@@ -9,9 +9,11 @@ Requirements for win svr 2025:
 1. Create instance in GCP with Debian11 OS (AMD/INTEL) and wait for the process
 2. SSH into the debian OS and type the command below :
 
-2-1. sudo -i
-2-2. apt-get update
-2-3. apt-get install -y xz-utils openssl gawk file wget -y
+- sudo -i
+- 
+- apt-get update
+- 
+- apt-get install -y xz-utils openssl gawk file wget -y
 
 
 3. Get info for your server ip-addr , ip-mask & ip-gate you will need to use it when running the command
