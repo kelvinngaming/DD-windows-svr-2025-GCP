@@ -19,7 +19,7 @@ Requirements for win svr 2025:
    
 4. Download the DD windows svr2025 gzip file from my google drive and host it in your own personal server to use for the installation later
    
-  (  https://drive.google.com/file/d/1qQZ6Sp7xv6Jx25hzWaEGnPzSumNVXbf3/view  )
+      (  https://drive.google.com/file/d/1qQZ6Sp7xv6Jx25hzWaEGnPzSumNVXbf3/view  )
 
 5. Make sure to download the image file url have to include the file name "WinSvr2025_Datacenter_EN.vhd.gz" else the installation will failed
 
