@@ -13,6 +13,10 @@ Requirements for win svr 2025:
     apt-get install -y xz-utils openssl gawk file wget -y
 
 3. Get info for your server ip-addr , ip-mask & ip-gate you will need to use it when running the command
+
+    Example : --ip-addr 10.148.0.1 --ip-mask 255.255.255.0 --ip-gate 10.148.0.1
+   
+   
 4. Download the DD windows svr2025 gzip file from my google drive and host it in your own personal server to use for the installation later
    
   (  https://drive.google.com/file/d/1qQZ6Sp7xv6Jx25hzWaEGnPzSumNVXbf3/view  )
@@ -27,6 +31,6 @@ Requirements for win svr 2025:
  Username : Administrator
  Password: Qwerty@1@2@3
 
-9. Note: This windows are not activated !
+9. Note: This windows are not activated ! Please get the Genuine Key from microsoft 
 
 10. Credits thanks to teddysun for the wondefull InstallNET.sh script and vhd file from me. 
