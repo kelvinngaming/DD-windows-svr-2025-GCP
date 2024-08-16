@@ -31,8 +31,8 @@ Requirements for win svr 2025:
 10. Wait for the installation it will take around 1 hour 10 minutes to complete the whole process.
 11. Connect to your new Win Svr2025 with Remote desktop client on any computer or mobile phone.
 
-12. Username : Administrator
-13. Password: Qwerty@1@2@3
+    - Username : Administrator
+    - Password: Qwerty@1@2@3
 
 15. Note: This windows are not activated ! Please get the Genuine Key from microsoft 
 
